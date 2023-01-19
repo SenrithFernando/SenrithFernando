@@ -1,9 +1,9 @@
 ### Hello 👋
 
-🖥 I'm a Software Developer
-👨‍🎓 Currently studying Software Developer NVQ Level IV course in NVTI Baddegama.
-📧 Contact me : rihansenrithvta@gmail.com
-🪀 Contact me : http://wa.me/+94727460126
+- 🖥 I'm a Software Developer
+- 👨‍🎓 Currently studying Software Developer NVQ Level IV course in NVTI Baddegama.
+- 📧 Contact me : rihansenrithvta@gmail.com
+- 🪀 Contact me : http://wa.me/+94727460126
 
 
 <!--
