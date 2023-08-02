@@ -1,9 +1,10 @@
 ### Hello 👋
 
 - 🖥 I'm a Software Developer
-- 👨‍🎓 Currently studying Software Developer NVQ Level IV course in NVTI Baddegama.
+- 👨‍🎓 Studied Software Developer NVQ Level IV course in NVTI Baddegama.
+- 👨‍🎓 Currently studying B.Sc. in Software Engineering in SLIIT Malabe.
 - 📧 Contact me : rihansenrithvta@gmail.com
-- 🪀 Contact me : https://wa.me/qr/ZKPQPSNYOCRVG1
+- 🪀 Contact me : https://www.linkedin.com/in/senrith-fernando-176559234/
 
 
 <!--
