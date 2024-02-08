@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 
 <br><br>
 
-- 🔭 I’m currently working as *Software Developer*
+- 🔭 I’m currently working as *Software Developer*.
 
 - 👨‍🎓 Studied Software Developer NVQ Level IV course in NVTI Baddegama.
   
 - 👨‍🎓 Currently studying B.Sc. in Software Engineering in SLIIT Malabe.
 
-- 💬 Ask me about *php, java*
+- 💬 Ask me about *php, java*.
 
-- 📫 How to reach me *rihansenrithvta@gmail.com*
+- 📫 How to reach me *rihansenrithvta@gmail.com*.
 
 <!-- 📄 Know about my experiences [https://drive.google.com/file/d/1DPCuCVs3JbXLS2vrvn0sIoYNirH5MShu/view?usp=drive_link](https://drive.google.com/file/d/1DPCuCVs3JbXLS2vrvn0sIoYNirH5MShu/view?usp=drive_link)
 -->
