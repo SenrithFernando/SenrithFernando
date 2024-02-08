@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
 - 👨‍🎓 Currently studying B.Sc. in Software Engineering in SLIIT Malabe.
 
-- 💬 Ask me about *php*
+- 💬 Ask me about *php, java*
 
 - 📫 How to reach me *rihansenrithvta@gmail.com*
 
