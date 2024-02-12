@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Senrith Fernando</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22897008-kavindutheekshana&label=Profile%20views&color=0e75b6&style=flat" alt="it22897008-kavindutheekshana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SenrithFernando&label=Profile%20views&color=0e75b6&style=flat" alt="SenrithFernando" /> </p>
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 ---------------------
