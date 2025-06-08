@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 Studied Software Developer NVQ Level IV course in NVTI Baddegama.
   
-- 👨‍🎓 Currently studying B.Sc. in Software Engineering in SLIIT Malabe.
+- 👨‍🎓 Currently studying B.Sc. in Software Engineering at SLIIT Malabe.
 
-- 💬 Ask me about *php, java*.
+- 💬 Ask me about *PHP, java, HTML, CSS, and MERN*.
 
 - 📫 How to reach me *rihansenrithvta@gmail.com*.
 
